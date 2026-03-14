@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=1B2A6B&center=true&vCenter=true&width=700&lines=Olá+Mundo" />
 </p>
 
----
+
 # Olá, eu sou Tenorio
 
 ⤷ Estudante de **Desenvolvimento de Sistemas (SENAI)**  
