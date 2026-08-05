@@ -3,7 +3,7 @@
 </p>
 
 
-# Olá, eu sou Tenorio
+# Olá, eu sou Gaby
 
 ⤷ Estudante de **Desenvolvimento de Sistemas (SENAI)**  
 ⤷ Interesse em **Automação, Python e Back-End**  
