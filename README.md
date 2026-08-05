@@ -5,7 +5,7 @@
 
 # Olá, eu sou Gaby
 
-⤷ Estudante de **Desenvolvimento de Sistemas (SENAI)**  
+⤷ Estudante de **engenharia de Software**  
 ⤷ Interesse em **Automação, Python e Back-End**  
 ⤷ Aprendendo mais sobre **Node.js e APIs**
 
